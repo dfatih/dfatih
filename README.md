@@ -91,4 +91,20 @@
 
 <br clear="both">
 
+# 📖 Recommended Books
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<img src="https://m.media-amazon.com/images/I/A10G+oKN3LL._SY385_.jpg" alt="Deep Learning" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/81CDIGTNNFL._SY385_.jpg" alt="Artificial Intelligence: A Modern Approach" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SY385_.jpg" alt="Designing Data-Intensive Applications" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/71fqxXDY2ZL._SY425_.jpg" alt="Pattern Recognition and Machine Learning" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/71nk3rOK3jL._SY425_.jpg" alt="Reinforcement Learning: An Introduction" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/71e6ndHEwqL._SY385_.jpg" alt="Refactoring: Improving the Design of Existing Code" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/51OUpAK-y6L._SY466_.jpg" alt="The Art of Computer Programming" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/71XKoLJSZ1L._SY385_.jpg" alt="Computer Networking: A Top-Down Approach" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/51E2055ZGUL._SY425_.jpg" alt="Clean Code" width="150px"/>
+
+</div>
+
 Feel free to explore my repositories and reach out for collaborations!
