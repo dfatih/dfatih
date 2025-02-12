@@ -28,7 +28,7 @@
   - *Based on:* ["A Bayesian Approach to Tackling Hard Computational Problems"](https://arxiv.org/abs/1301.2279)
 
 - **Consensus Protocols for IoT Devices**: An in-depth analysis of lightweight, scalable, and efficient consensus mechanisms tailored for IoT environments.
-  - *Based on:* ["Welches Konsensprotokoll bietet die beste Kombination aus Leichtgewichtigkeit, Skalierbarkeit und Effizienz für die Integration von IoT-Geräten?"](https://github.com/dfatih/article.pdf)
+  - *Based on:* ["Welches Konsensprotokoll bietet die beste Kombination aus Leichtgewichtigkeit, Skalierbarkeit und Effizienz für die Integration von IoT-Geräten?"](https://github.com/dfatih/dfatih/blob/master/article.pdf)
 
 - **Real-Time Planning Algorithms**: Enhancing robotic pathfinding through the implementation of the **D\*** algorithm and its variants.
   - *Based on:* ["The D\* Algorithm for Real-Time Planning of Optimal Traverses"](https://www.semanticscholar.org/paper/The-D*-Algorithm-for-Real-Time-Planning-of-Optimal-Stentz/8e60573c99d2d290dd9163272ea21727c382d00b) & ["D\* Light"](https://cdn.aaai.org/AAAI/2002/AAAI02-072.pdf)
