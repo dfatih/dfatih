@@ -6,7 +6,7 @@
   <p>I'm a <strong>Full-Stack Developer</strong> passionate about building innovative solutions in <strong>AI</strong>, <strong>LLMs</strong>, and <strong>SaaS</strong> projects. With a deep understanding of modern technologies and a focus on clean, scalable code, I create applications that are both efficient and user-friendly.</p>
   <p><strong>🚀 Fun Facts:</strong></p>
   <ul>
-    <li>🏊 I swim after every workout to optimize fat reduction and balance muscle gain.</li>
+    <li>🪂 I love to Skydive and doing my AFF Licence.</li>
     <li>📈 Passionate about solving complex <strong>NP</strong> problems efficiently.</li>
     <li>🤖 Always experimenting with the latest in <strong>AI</strong> and <strong>LLM</strong> research.</li>
   </ul>
@@ -76,6 +76,11 @@
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=fff" height="30" alt="streamlit logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/-LLMs-FF9900?logo=openai&logoColor=fff" height="30" alt="llms logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=fff" height="30" alt="Prometheus logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff" height="30" alt="Grafana logo" />
+<img width="12" />
 </div>
 
 
@@ -95,14 +100,13 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<img src="https://m.media-amazon.com/images/I/A10G+oKN3LL._SY385_.jpg" alt="Deep Learning" width="150px"/>
-<img src="https://m.media-amazon.com/images/I/81CDIGTNNFL._SY385_.jpg" alt="Artificial Intelligence: A Modern Approach" width="150px"/>
-<img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SY385_.jpg" alt="Designing Data-Intensive Applications" width="150px"/>
-<img src="https://m.media-amazon.com/images/I/71fqxXDY2ZL._SY425_.jpg" alt="Pattern Recognition and Machine Learning" width="150px"/>
-<img src="https://m.media-amazon.com/images/I/71nk3rOK3jL._SY425_.jpg" alt="Reinforcement Learning: An Introduction" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/71HW-ddmfCL._SL1499_.jpg" alt="The StatQuest Illustrated Guide to Neural Networks and AI" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/81F90H7hnML._SL1500_.jpg" alt="Atomic Habits" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/61nvARwKheL._SL1500_.jpg" alt="The Four: The Hidden DNA of Amazon, Apple, Facebook and Google" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/81PncHt6wcL._SL1500_.jpg" alt="Awaken the Giant Within" width="150px"/>
+<img src="https://m.media-amazon.com/images/I/61lWb8arMzL._SL1400_.jpg" alt="Power vs. Force: The Hidden Determinants of Human Behavior" width="150px"/>
 <img src="https://m.media-amazon.com/images/I/71e6ndHEwqL._SY385_.jpg" alt="Refactoring: Improving the Design of Existing Code" width="150px"/>
 <img src="https://m.media-amazon.com/images/I/51OUpAK-y6L._SY466_.jpg" alt="The Art of Computer Programming" width="150px"/>
-<img src="https://m.media-amazon.com/images/I/71XKoLJSZ1L._SY385_.jpg" alt="Computer Networking: A Top-Down Approach" width="150px"/>
 <img src="https://m.media-amazon.com/images/I/51E2055ZGUL._SY425_.jpg" alt="Clean Code" width="150px"/>
 
 </div>
